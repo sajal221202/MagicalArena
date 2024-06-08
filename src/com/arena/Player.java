@@ -26,14 +26,13 @@ public class Player {
     }
     
     public Player(int health, int strength, int attack) {
-        super();
         this.health = health;
         this.strength = strength;
         this.attack = attack;
     }
-
+    
     @Override
     public String toString() {
-        return "Health: " + health + ", Strength: " + strength + ", Attack: " + attack;
+        return "Player with Health: " + health + ", Strength: " + strength + ", Attack: " + attack;
     }
 }
