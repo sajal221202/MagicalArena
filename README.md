@@ -23,9 +23,4 @@ This Java program simulates a magical arena where two players engage in combat.
 
 5. The program will simulate the match and display the result - which player wins the match.
 
-## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
-```
-
-You can add more details or customize it further based on your requirements.
